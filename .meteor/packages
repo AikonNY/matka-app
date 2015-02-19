@@ -8,3 +8,8 @@ meteor-platform
 autopublish
 accounts-ui
 accounts-password
+iron:router
+fourseven:scss
+meteoric:ionic-sass
+meteoric:ionicons-sass
+meteoric:ionic
